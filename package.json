@@ -1,0 +1,10 @@
+{
+  "name": "aws-rx",
+  "version": "0.0.1",
+  "description": "Reactive aws-sdk implementation",
+  "main": "index.js",
+  "repository": "git@github.com:AitorGuerrero/aws-rx.git",
+  "author": "Aitor Guerrero <aitgud.dev@gmail.com>",
+  "license": "UNLICENSED",
+  "private": false
+}
