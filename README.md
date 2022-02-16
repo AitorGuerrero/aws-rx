@@ -1,1 +1,1 @@
-# Reactive AWS-SDK implementation #
+# Reactive AWS-SDK implementation
